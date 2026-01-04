@@ -1,0 +1,5 @@
+{
+  "name": "Bilingual Debt & Budget Manager",
+  "description": "A professional financial dashboard for tracking complex debt repayments and monthly budgets in Persian and German, featuring cumulative freed money logic and waterfall cash flow charts.",
+  "requestFramePermissions": []
+}

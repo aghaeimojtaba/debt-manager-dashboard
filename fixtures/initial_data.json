@@ -1,0 +1,31 @@
+
+[
+  {
+    "model": "api.userprofile",
+    "pk": 1,
+    "fields": {
+      "main_salary": 2000.0,
+      "minijob_income": 0.0
+    }
+  },
+  {
+    "model": "api.fixedexpense",
+    "pk": 1,
+    "fields": {
+      "name": "Base Expense",
+      "amount": 500.0
+    }
+  },
+  {
+    "model": "api.debt",
+    "pk": 1,
+    "fields": {
+      "creditor": "Sample Creditor",
+      "original_amount": 1000.0,
+      "remaining_balance": 900.0,
+      "monthly_installment": 50.0,
+      "category": "Category A",
+      "status": "Active"
+    }
+  }
+]
